@@ -1,0 +1,23 @@
+{
+  "colores": [
+    {
+      "hex": "#00b9ff",
+      "rgb": [
+        0.0,
+        0.7281250000000004,
+        1.0
+      ],
+      "nombre": "Color 1"
+    },
+    {
+      "hex": "#ff00d7",
+      "rgb": [
+        1.0,
+        0.0,
+        0.84375
+      ],
+      "nombre": "Color 2"
+    }
+  ],
+  "personalizados": []
+}
